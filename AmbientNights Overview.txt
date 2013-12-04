@@ -1,0 +1,35 @@
+1)
+
+Jeffrey Li - JL37656
+Phillip Pham - PNP248
+
+2)
+
+- 4 Different themes
+- Menu to select theme
+- Simple Viewing screen consisting of a picture of nature that acts as a play/pause button
+
+3)
+
+- Did not get a functioning timer (using AlarmManager created too many complications; Handler works best for interval needs; Timer inefficient and buggy; still looking for optimal solution)
+
+4)
+
+- Created a dual view using Fragments
+- Provided a description of the sound before choosing
+
+
+5) 
+
+- N/A (solutions from StackOverflow were often repurposed, but classes were built from scratch)
+
+6)
+
+- ThemeDetailActivity
+- ThemeDetailFragment
+- ThemeListActivity
+- ThemeListFragment
+- Theme: Holder class for all the themes
+- Player: Service that plays the sounds
+- PlayerIntentReceiver: Helper class that allows Player to work
+- PlayScreen: Handles the ImageButton and play/pause feature

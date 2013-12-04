@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AmbientNights</string>
+    <string name="title_theme_detail">Theme Detail</string>
+    <string name="dne_desc">Something went wrong</string>
+    <string name="jungle_desc">Rest your head to the exotic sounds of a tropical jungle. Let your dreams take you to a paradise of lush green forests and beautiful wildlife.</string>
+    <string name="ocean_desc">Surfs up!</string>
+    <string name="rain_desc">Let rain drift you off to sleep with the original sleeping music. Let your mind rest and enjoy pure relaxation.</string>
+    <string name="river_desc">Sleep soundly to the gentle rush of a babbling brook. Let your dreams take you to the quiet peace of a gently flowing river.</string>
+     <string name="text_desc">Short Description of the Theme</string>
+      <string name="background_desc">Background Image For Theme</string>
+</resources>
